@@ -1,6 +1,6 @@
 # Dracula for [Spyder](https://www.spyder-ide.org/)
 
-> A dark theme for [Spyder](https://www.spyder-ide.org/).
+> A green theme for [Spyder](https://www.spyder-ide.org/).
 
 ![Screenshot](./screenshot.png)
 
@@ -25,3 +25,4 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 ## License
 
 [MIT License](./LICENSE)
+ all font green
